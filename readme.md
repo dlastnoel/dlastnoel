@@ -31,7 +31,7 @@ Let's Connect
 <a href="https://www.instagram.com/dlastnoel/"><img align="right" src="img/instagram.png" alt="icon | Instagram" width="25px"/></a>
 <a href="https://portfoliov1-noelxavier.vercel.app/"><img align="right" src="img/website.png" alt="icon | LinkedIn" width="25px"/></a>
 </h3>
-I'm be glad to start a community with you. Let's start an open source project together.
+It would be great to start a community with you. Let's start an open source project together.
 
 <!--START_SECTION:connect-->
 
