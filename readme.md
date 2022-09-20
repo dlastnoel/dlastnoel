@@ -10,7 +10,7 @@
 
 - 🎓 A recent graduate of BS Information Technology
 - 🦉 A nocturnal sleepyhead Full-Stack Web Developer
-- 👕 A vintage clothing curator. Check out my shop right [here](https://www.instagram.com/99th.chronicles/)
+- 👕 A vintage clothing curator. Check out my shop right [here](https://www.instagram.com/99th.chronicles/).
 <!--END_SECTION:about-->
 
 ---
