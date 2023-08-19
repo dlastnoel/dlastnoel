@@ -1,4 +1,4 @@
-![Header](img/banner.jpg)
+![Header](img/new_banner.jpg)
 
 ## <h2 align="center">Namaste 👋, I am Noel Xavier</h2>
 
