@@ -1,8 +1,6 @@
 ![Header](img/banner.jpg)
 
-<h2 align="center">Namaste 👋, I am Noel Xavier</h2>
-
----
+## <h2 align="center">Namaste 👋, I am Noel Xavier</h2>
 
 ### About Me
 
@@ -38,7 +36,7 @@ I'm be glad to start a community with you. Let's start an open source project to
 - Country songs
 - Vintage items and clothings
 - Development and coding
-  <!--END_SECTION:connect-->
+<!--END_SECTION:connect-->
 
 ![Most Used Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dlastnoel&layout=compact&langs_count=8&theme=graywhite)&nbsp;&nbsp;&nbsp;
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dlastnoel&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
