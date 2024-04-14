@@ -37,12 +37,3 @@ It would be great to start a community with you. Let's start an open source proj
 - Vintage items and clothings
 - Development and coding
 <!--END_SECTION:connect-->
-
-![Most Used Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dlastnoel&layout=compact&langs_count=8&theme=graywhite)&nbsp;&nbsp;&nbsp;
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dlastnoel&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Oh wait, here's a meme for you. Have a nice day!
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
