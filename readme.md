@@ -37,3 +37,5 @@ It would be great to start a community with you. Let's start an open source proj
 - Vintage items and clothings
 - Development and coding
 <!--END_SECTION:connect-->
+
+<a href="https://app.daily.dev/dlastnoel"><img src="https://api.daily.dev/v2/dlastnoel" width="356" alt="Noel Xavier Ulpindo's Dev Card"/></a>
