@@ -17,7 +17,7 @@
 
 <!--START_SECTION:stack-->
 
-- 💻 Currently learning the LaraVue Stack
+- 💻 VILT (Vue, Inertia, Laravel, Tailwind) Stack (bonus: Vuefity)
 - 🔧 Dev tools and other stuffs include VS Code, Firefox Developer's Edition and Stack Overflow
 <!--END_SECTION:stack-->
 
