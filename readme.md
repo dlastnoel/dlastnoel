@@ -1,6 +1,7 @@
-![Header](img/new_banner.jpg)
+<!-- ![Header](img/new_banner.jpg) -->
+<a href="https://app.daily.dev/dlastnoel" align="center"><img src="https://api.daily.dev/devcards/v2/3z6eNbQ4DbMJYtff8hXgG.png?type=wide&r=w6j" width="652" alt="Noel Xavier Ulpindo's Dev Card"/></a>
 
-## <h2 align="center">Namaste 👋, I am Noel Xavier</h2>
+<!-- ## <h2 align="center">Namaste 👋, I am Noel Xavier</h2> -->
 
 ### About Me
 
@@ -37,5 +38,3 @@ It would be great to start a community with you. Let's start an open source proj
 - Vintage items and clothings
 - Development and coding
 <!--END_SECTION:connect-->
-
-<a href="https://app.daily.dev/dlastnoel"><img src="https://api.daily.dev/devcards/v2/3z6eNbQ4DbMJYtff8hXgG.png?type=default&r=tvv" width="356" alt="Noel Xavier Ulpindo's Dev Card"/></a>
