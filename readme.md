@@ -7,7 +7,7 @@
 
 <!--START_SECTION:about-->
 
-- 🎓 A recent graduate of BS Information Technology
+- 🎓 Degree Holder - Bachelor of Science in Information Technology
 - 🦉 A nocturnal sleepyhead Full-Stack Web Developer
 - 👕 A vintage clothing curator. Check out my shop right [here](https://www.instagram.com/99th.chronicles/).
 <!--END_SECTION:about-->
