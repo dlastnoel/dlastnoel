@@ -6,22 +6,9 @@
 ### About Me
 
 <!--START_SECTION:about-->
-
-- 🎓 Degree Holder - Bachelor of Science in Information Technology
-- 🦉 A nocturnal sleepyhead Full-Stack Web Developer
+- 🦉 A nocturnal self-taught Developer
 - 👕 A vintage clothing curator. Check out my shop right [here](https://www.instagram.com/99th.chronicles/).
 <!--END_SECTION:about-->
-
----
-
-### Tech Stack: LAMP Stack and Flutter
-
-<!--START_SECTION:stack-->
-
-- 💻 VILT (Vue, Inertia, Laravel, Tailwind) Stack (bonus: Vuefity)
-- 🔧 Dev tools and other stuffs include VS Code, Firefox Developer's Edition and Stack Overflow
-<!--END_SECTION:stack-->
-
 ---
 
 <h3>
